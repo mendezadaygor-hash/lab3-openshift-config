@@ -5,5 +5,5 @@ resources:
 namePrefix: ""
 images:
   - name: agenda
-    newName: agenda
+    newName: image-registry.openshift-image-registry.svc:5000/cicd-prodygormendes/agenda
     newTag: v1
