@@ -6,4 +6,4 @@ namePrefix: ""
 images:
   - name: agenda
     newName: image-registry.openshift-image-registry.svc:5000/cicd-devygormendes/agenda
-    newTag: v1
+    newTag: v2
